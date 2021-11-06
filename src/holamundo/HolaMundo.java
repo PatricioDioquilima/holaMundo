@@ -17,6 +17,8 @@ public class HolaMundo {
     public static void main(String[] args) {
         //Hola mundo con GitHub 
         System.out.println("Hola GitHub " );
+        System.out.println("editado");
+        System.out.println("************");
     }
     
 }
